@@ -1,5 +1,9 @@
 {
 	"Entities": {
+		"EN_CUENTADFL_359": {
+			"name": "Cuenta"
+		},
+		{
 		"EN_CLIENTEAA_925": {
 			"name": "Cliente"
 		}
