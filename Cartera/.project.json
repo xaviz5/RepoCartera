@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2020",
+	"moduleId": "MMUNG",
+	"modules": [
+		{
+			"moduleId": "MMUNG",
+			"moduleName": "Main",
+			"subModules": [
+				{
+					"subModuleId": "SSMMK",
+					"subModuleName": "Main"
+				}
+			]
+		}
+	],
+	"projectName": "Cartera",
+	"subModuleId": "SSMMK"
+}
