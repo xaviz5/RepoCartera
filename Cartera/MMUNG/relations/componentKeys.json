@@ -6,5 +6,15 @@
 		"EN_CUENTADFL_359": {
 			"name": "Cuenta"
 		}
+	},
+	"SSMMK": {
+		"CompositeForms": {
+		},
+		"Forms": {
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }

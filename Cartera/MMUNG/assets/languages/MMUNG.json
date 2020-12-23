@@ -1,10 +1,13 @@
 {
-    "MMUNG": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMUNG": {
+		"LBL": {
+			"LBL_MMUNG_APELLIDOO_94446": "Apellido",
+			"LBL_MMUNG_CEDULAGCZ_41662": "Cedula",
+			"LBL_MMUNG_GUARDARRY_54960": "Guardar",
+			"LBL_MMUNG_NOMBREDGR_10002": "Nombre",
+			"LBL_MMUNG_TELEFONOO_15461": "Telefono"
+		},
+		"MSG": {
+		}
+	}
 }

@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_CLIENTEAA_925",
+			"isContextEntity": null,
+			"moduleId": "MMUNG",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}
